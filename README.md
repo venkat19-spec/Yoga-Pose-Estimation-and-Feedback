@@ -2,4 +2,4 @@
 
 # Objective:
 
-## A machine learning model to assess the yoga pose performed by the practitioner and to provide feedback to the practitioner to correct their pose. 
+# A machine learning model to assess the yoga pose performed by the practitioner and to provide feedback to the practitioner to correct their pose. 
