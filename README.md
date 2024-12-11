@@ -2,4 +2,6 @@
 
 # Objective:
 
-# A machine learning model to assess the yoga pose performed by the practitioner and to provide feedback to the practitioner to correct their pose. 
+# Design a Machine Learning based application that monitors the yoga pose performed by the practitioner and gives real time feedback for improvement of  the yoga posture.
+
+
