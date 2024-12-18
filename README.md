@@ -1,6 +1,6 @@
 # Yoga-Pose-Estimation-and-Feedback Mechanism Through Self-Learning
 
-### Objective: Design a Machine Learning based application that monitors the yoga pose performed by the practitioner and gives real time feedback for improvement of  the yoga posture.
+# Objective: Design a Machine Learning based application that monitors the yoga pose performed by the practitioner and gives real time feedback for improvement of  the yoga posture.
 ◦ Develop a machine learning model to assess five yoga poses perform by the practitioner Downdog,
 Warrior-2, Plank, Tree, Goddess and suggest feedback to the practitioner to correct their pose. \
 ◦ Performed suitable data cleaning & consolidation of image dataset and applied suitable image
